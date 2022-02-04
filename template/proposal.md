@@ -4,7 +4,7 @@
 AIP: <AIP number>
 Title: <AIP title>
 Author: <list of authors' real names and optionally, email addrs>
-Type: <Funding | Meta>  
+Type: <Funding | Operation | Info | Process>  
 Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>  
 ```
 
